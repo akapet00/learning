@@ -4,33 +4,33 @@
 
 ### Contents
 
-* [Training Models](#Learning) [1]
-    * [Linear Regression](#Linear-Regression)
-        * [The Normal Equation](#Optimization-1:-The-Normal-Equation)
-        * [Gradient Descent](#Optimization-2:-Gradient-Descent)
+* Training Models [1]
+    * Linear Regression
+        * The Normal Equation
+        * Gradient Descent
         
-    * [Polynomial Regression](#Polynomial-Regression)
+    * Polynomial Regression
     
-    * [Learning Curves](#Learning-Curves)
+    * Learning Curves
     
-    * [Regularized Linear Models](#Regularized-Linear-Models)
-        * [Ridge Regression](#Ridge-Regression-(Tikhonov-Regularization))
-        * [Lasso Regression](#Lasso-Regression)
-        * [Elastic Net](#Elastic-Net)
-        * [Early Stopping](#Early-Stopping)
+    * Regularized Linear Models
+        * Ridge Regression
+        * Lasso Regression
+        * Elastic Net
+        * Early Stopping
     
-    * [Logistic Regression](#Logistic-Regression)
+    * Logistic Regression
     
-    * [Softmax Regression](#Softmax-Regression)
+    * Softmax Regression
 
-    * [The Perceptron](#The-Perceptron)
+    * The Perceptron
 
-    * [Multi Layer Perceptron](#Multi-Layer-Perceptron) [2]
+    * Multi Layer Perceptron [2]
 
-* [Artificial Neural Networks](#Artificial-Neural-Networks) [3]
-    * [Backpropagation: Theory Behind, algorithm and implementation by Michael Nielsen](#Backpropagation)
-    * [Improving The Way Neural Networks Learn](#Improving-The-Way-Neural-Networks-Learn)
-    * [Vanishing Gradient Problem](#Vanishing-Gradient)
+* Artificial Neural Networks [3]
+    * Backpropagation: Theory Behind, algorithm and implementation by Michael Nielsen
+    * Improving The Way Neural Networks Learn
+    * Vanishing Gradient Problem
         
 ### References
 
